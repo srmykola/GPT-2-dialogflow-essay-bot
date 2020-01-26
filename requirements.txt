@@ -1,0 +1,9 @@
+Flask == 1.0.0
+Requests == 2.20.0
+Datetime
+tensorflow
+regex
+requests
+tqdm
+numpy
+toposort
